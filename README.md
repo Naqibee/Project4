@@ -103,4 +103,8 @@ Classification Report:
 weighted avg   	0.79      0.81  	0.77  	6028 
 
 
+In conclusion, between the MLP/Random Forest, the Random Forest is the best performing algorithm with 85% accuracy.
 
+This is due to 2 reasons:
+1.) Out of all the states predicted to have a certain average income, 85% are correctly predicted. Subsequently, this proves a 15% error rate, which is very minimal.
+2.) 2.) In terms of real life compatibility, this model's predictions can be utilized to make informed decisions regarding resource allocation or policy analysis. To specify, banks and other businesses can use this model when analyzing/referencing future finances of clients.
